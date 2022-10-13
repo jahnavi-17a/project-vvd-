@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>fashion designer</h2>
+    <p>I like fashion designing very much:</p>
+
+    <img
+      style="width: 500px"
+      src="https://tse1.mm.bing.net/th?id=OIP.6W4nZ4OzWJ1dKVPE23tcxgHaEK&pid=Api&P=0"
+      alt="fashion designing"
+    />
+
+    <p>* For that i should have good business sence:</p>
+    <p>*I should have good communication skills and talent:</p>
+  </body>
+</html>
